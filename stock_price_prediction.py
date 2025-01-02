@@ -45,7 +45,7 @@ def predict_and_plot(model, X_test, y_test, stock_data):
 
 # Main script
 if __name__ == "__main__":
-    ticker = "GOOG"  # Example: Bitcoin in USD
+    ticker = "BTC-USD"  # Example: Bitcoin in USD
     start_date = "2020-01-01"
     end_date = "2025-01-17"
 
